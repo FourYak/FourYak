@@ -7,11 +7,17 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Recém-formado em **Análise e Desenvolvimento de Sistemas**
-- 🔥 Apaixonado por **JavaScript, ReactJS, Tailwind CSS e Node.js**
-- 🛠️ Explorando **Next.js** e **TypeScript** em meus projetos atuais
-- 🌱 Sempre buscando aprender e aprimorar minhas habilidades
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <ul>
+      <li>🎓 Recém-formado em <strong>Análise e Desenvolvimento de Sistemas</strong></li>
+      <li>🔥 Apaixonado por <strong>JavaScript, ReactJS, Tailwind CSS e Node.js</strong></li>
+      <li>🛠️ Explorando <strong>Next.js</strong> e <strong>TypeScript</strong> em meus projetos atuais</li>
+      <li>🌱 Sempre buscando aprender e aprimorar minhas habilidades</li>
+    </ul>
+  </div>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Coding GIF" style="width: 300px; margin-left: 20px;">
+</div>
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -53,5 +59,3 @@ Portfólio em construção...
 </svg>  
 
 ---
-
-⭐️ **Se gostou do meu perfil, não esqueça de dar um star nos repositórios!** 😉
