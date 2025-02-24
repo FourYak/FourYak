@@ -1,5 +1,5 @@
 ### Olá, eu sou o Maik Quebra! 🧑‍💻
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=1C6280EE&width=435&lines=Front-End+Developer+%F0%9F%92%BB;Technology+and+design+enthusiast+%F0%9F%92%A1;Gamer%F0%9F%8E%AE;Martial+arts+practitioner+%F0%9F%A5%8B+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=22&pause=1000&color=1C6280EE&width=435&lines=Full-Stack+Developer+%F0%9F%92%BB;Technology+and+design+enthusiast+%F0%9F%92%A1;Gamer%F0%9F%8E%AE;Martial+arts+practitioner+%F0%9F%A5%8B+" alt="Typing SVG" /></a>
 
 💻 Desenvolvedor Front-End | 🎨 Entusiasta de tecnologia e design | 🎮 Gamer | 🥋 Praticante de artes marciais
 
